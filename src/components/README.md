@@ -1,0 +1,1 @@
+- Define component to be used in pages

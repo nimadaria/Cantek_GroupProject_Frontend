@@ -1,0 +1,2 @@
+- store resources to be used in the app
+- like svg, images
